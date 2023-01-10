@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Modal-Form-Animation/static/css/main.4761954a.css",
+    "main.js": "/Modal-Form-Animation/static/js/main.b39b309c.js",
+    "index.html": "/Modal-Form-Animation/index.html",
+    "main.4761954a.css.map": "/Modal-Form-Animation/static/css/main.4761954a.css.map",
+    "main.b39b309c.js.map": "/Modal-Form-Animation/static/js/main.b39b309c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4761954a.css",
+    "static/js/main.b39b309c.js"
+  ]
+}
